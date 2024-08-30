@@ -6,3 +6,6 @@ mlflow
 pandas
 dagshub
 huggingface-hub
+google-generativeai
+youtube_transcript_api
+langchain_google_genai

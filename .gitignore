@@ -26,7 +26,6 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-serpapp.py
 explore_genai/
 LLMEvaluation/mlruns
 
