@@ -14,7 +14,6 @@ prompt="""You are Yotube video summarizer. You will be taking the transcript tex
 and summarizing the entire video and providing the important summary in points
 within 250 words. Please provide the summary of the text given here:  """
 
-
 ## getting the transcript data from yt videos
 def extract_transcript_details(youtube_video_url):
     try:
