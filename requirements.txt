@@ -2,3 +2,7 @@ python-dotenv
 google-api-python-client
 crewai
 crewai_tools
+mlflow
+pandas
+dagshub
+huggingface-hub
